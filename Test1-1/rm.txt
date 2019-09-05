@@ -1,0 +1,10 @@
+a game:
+put number of 'n' card in the porket
+extract 4 times,every time extract then back the card
+if they add sum id 'm'
+you win 
+
+eg:
+n = 3  there are three card in the box
+m = 10 the bingo number is 10
+k = {1,3,5} there card number is 1,3,5
